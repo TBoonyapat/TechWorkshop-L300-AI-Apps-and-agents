@@ -20,7 +20,7 @@ This lab has exercises on:
 * Red Teaming AI Agents
 * Resource cleanup
 
-The lab is available as GitHub pages [here](https://microsoft.github.io/TechWorkshop-L300-AI-Apps-and-agents/).
+The lab is available as GitHub pages [here](https://isaru66.github.io/TechWorkshop-L300-AI-Apps-and-agents/).
 
 ## Prerequisites
 

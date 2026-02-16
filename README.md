@@ -4,7 +4,7 @@ This lab teaches you how to design and build AI applications and agents using Mi
 
 ## Step by Step Instructions
 
-The step by step instructions for this lab can be found in the [AI Apps and agents guide](https://microsoft.github.io/TechWorkshop-L300-AI-Apps-and-agents).
+The step by step instructions for this lab can be found in the [AI Apps and agents guide](https://isaru66.github.io/TechWorkshop-L300-AI-Apps-and-agents).
 
 ## Contributing
 
