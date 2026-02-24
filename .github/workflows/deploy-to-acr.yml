@@ -9,7 +9,7 @@ on:
       - '.github/workflows/deploy-to-acr.yml'
 
 env:
-  REGISTRY_NAME: # Set your ACR name here, or use secrets
+  REGISTRY_NAME: yrhpr3nox3mdwcosureg
   IMAGE_NAME: ai-shopping-assistant
 
 jobs:
